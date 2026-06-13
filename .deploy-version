@@ -1,1 +1,1 @@
-2026-06-13T06:40:10+02:00 — feat: map /category/* deep links to /vod route
+2026-06-13T06:44:10+02:00 — fix: handle non-Linux platforms - direct HLS, skip GStreamer proxy calls + add vercel.json for SPA
