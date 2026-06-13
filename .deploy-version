@@ -1,1 +1,1 @@
-2026-06-13T12:16:04+02:00 — fix: use IPC get_proxy_port instead of navigating to tauri.localhost
+2026-06-13T12:22:48+02:00 — fix: channel modal UI, add fullscreen F11 with topbar hide
