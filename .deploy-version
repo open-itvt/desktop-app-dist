@@ -1,1 +1,1 @@
-2026-06-13T16:23:37+02:00 — fix: version label based on hostname, not channel
+2026-06-13T16:28:09+02:00 — fix: 'Przeglądaj' → 'Przeczytaj', safe version label fallback
