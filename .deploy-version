@@ -1,1 +1,1 @@
-2026-06-13T06:01:11+02:00 — feat: try itvt:// deep link before redirecting to vod.itvt.xyz
+2026-06-13T06:04:17+02:00 — fix: deep link flow — try itvt:// before browser redirect
