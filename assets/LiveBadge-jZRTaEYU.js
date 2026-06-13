@@ -1,1 +1,0 @@
-import{_ as s,a,c as t,b as o,A as c}from"./index-BmS2zoLm.js";const n={},r={class:"live-badge"};function _(d,e){return a(),t("span",r,[...e[0]||(e[0]=[o("span",{class:"live-dot"},null,-1),c(" NA ŻYWO ",-1)])])}const l=s(n,[["render",_],["__scopeId","data-v-17fff9bf"]]);export{l as L};
