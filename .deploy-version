@@ -1,1 +1,1 @@
-2026-06-13T09:37:53+02:00 — fix: offline screen in index.html — works before Vue loads + proxy ping
+2026-06-13T09:39:23+02:00 — fix: offline screen now disappears when connection restores — cleaner proxy check
