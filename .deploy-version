@@ -1,1 +1,1 @@
-2026-06-13T12:09:27+02:00 — feat: add channel switching and workflow debug detection
+2026-06-13T12:16:04+02:00 — fix: use IPC get_proxy_port instead of navigating to tauri.localhost
