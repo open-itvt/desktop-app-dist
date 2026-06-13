@@ -1,1 +1,1 @@
-2026-06-13T09:39:23+02:00 — fix: offline screen now disappears when connection restores — cleaner proxy check
+2026-06-13T11:39:01+02:00 — fix: load embedded frontend on release (not remote URL) — offline screen works without internet
