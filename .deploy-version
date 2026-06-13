@@ -1,1 +1,1 @@
-2026-06-13T16:18:23+02:00 — feat: show (Debug) in version and title when on debug channel
+2026-06-13T16:23:37+02:00 — fix: version label based on hostname, not channel
