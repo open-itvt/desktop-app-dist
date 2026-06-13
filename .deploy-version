@@ -1,1 +1,1 @@
-2026-06-13T05:14:09+02:00 — feat: add debug console and error capture to context menu
+2026-06-13T05:20:54+02:00 — fix: replace direct invoke calls with useBackend HTTP proxy in LiveView

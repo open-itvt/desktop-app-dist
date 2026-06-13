@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as o,a as t,B as c}from"./index-DzUG-VxN.js";const n={},r={class:"live-badge"};function _(d,e){return a(),o("span",r,[...e[0]||(e[0]=[t("span",{class:"live-dot"},null,-1),c(" NA ŻYWO ",-1)])])}const l=s(n,[["render",_],["__scopeId","data-v-17fff9bf"]]);export{l as L};
