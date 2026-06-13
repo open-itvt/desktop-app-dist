@@ -1,0 +1,1 @@
+import{_ as o,o as n,c as a,a as t,B as c}from"./index-I36-am4u.js";async function f(r,e={},s){return window.__TAURI_INTERNALS__.invoke(r,e,s)}const p={},_={class:"live-badge"};function d(r,e){return n(),a("span",_,[...e[0]||(e[0]=[t("span",{class:"live-dot"},null,-1),c(" NA ŻYWO ",-1)])])}const u=o(p,[["render",d],["__scopeId","data-v-17fff9bf"]]);export{u as L,f as i};
