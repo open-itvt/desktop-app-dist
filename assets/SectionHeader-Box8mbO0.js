@@ -1,1 +1,0 @@
-import{d as o,o as a,c,a as e,t as n,P as i,_ as r}from"./index-Bo4DNKoK.js";const _={class:"section-header"},d={class:"section-title"},l={class:"section-actions"},p=o({__name:"SectionHeader",props:{title:{}},setup(t){return(s,h)=>(a(),c("div",_,[e("h2",d,n(t.title),1),e("div",l,[i(s.$slots,"actions")])]))}}),S=r(p,[["__scopeId","data-v-4563195d"]]);export{S};
