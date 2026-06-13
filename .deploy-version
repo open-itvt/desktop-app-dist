@@ -1,1 +1,1 @@
-2026-06-13T06:50:10+02:00 — fix: use iframe embed player for non-Linux instead of HLS video
+2026-06-13T07:03:52+02:00 — feat: embed player postMessage controls — play/pause, volume, fullscreen via iframe API
