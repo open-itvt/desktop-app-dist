@@ -1,1 +1,1 @@
-2026-06-13T15:26:53+02:00 — fix: iframe detection — top-level shows iframe wrapper, iframe shows app content
+2026-06-13T15:35:01+02:00 — fix: offline button uses top.location, LivePlayer shows click-to-play on non-Linux
