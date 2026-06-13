@@ -1,1 +1,1 @@
-2026-06-13T15:20:39+02:00 — fix: move offline CSS to external file — avoid Tauri webview inline style bug
+2026-06-13T15:26:53+02:00 — fix: iframe detection — top-level shows iframe wrapper, iframe shows app content
