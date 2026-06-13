@@ -1,1 +1,1 @@
-2026-06-13T14:54:38+02:00 — feat: embedded iframe wrapper — local shell loads remote content
+2026-06-13T15:20:39+02:00 — fix: move offline CSS to external file — avoid Tauri webview inline style bug
