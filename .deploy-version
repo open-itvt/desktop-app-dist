@@ -1,1 +1,1 @@
-2026-06-22T01:31:49+02:00 — fix: add 3s timeout to IPC call — prevent splash hanging
+2026-06-22T01:35:32+02:00 — fix: use embedded app directly — no navigation, no iframe, works from dist
