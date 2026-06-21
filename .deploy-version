@@ -1,1 +1,1 @@
-2026-06-22T01:35:32+02:00 — fix: use embedded app directly — no navigation, no iframe, works from dist
+2026-06-22T01:36:40+02:00 — fix: null check for splash-open-text in index.html
