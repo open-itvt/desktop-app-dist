@@ -1,1 +1,1 @@
-2026-06-21T21:32:18+02:00 — fix: restore iframe architecture with IPC proxy discovery
+2026-06-21T21:38:42+02:00 — fix: direct navigation to remote URL instead of iframe
