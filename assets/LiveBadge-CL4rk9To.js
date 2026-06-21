@@ -1,1 +1,0 @@
-import{_ as s,f as a,c as t,a as o,s as c}from"./index-X7dv7k_2.js";const n={},r={class:"live-badge"};function _(d,e){return a(),t("span",r,[...e[0]||(e[0]=[o("span",{class:"live-dot"},null,-1),c(" NA ŻYWO ",-1)])])}const l=s(n,[["render",_],["__scopeId","data-v-17fff9bf"]]);export{l as L};
